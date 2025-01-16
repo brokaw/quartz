@@ -1,0 +1,5 @@
+{
+    "layout": "articleDetail.njk",
+    "tags": ["post", "wordpress", "article"],
+    "permalink": "/posts/{{ page.fileSlug }}/"
+}
